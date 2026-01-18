@@ -1,179 +1,232 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=DEADMAN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=BUILD%20%3E%20BUY&descSize=20&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,2&height=200&section=header&text=DEADMAN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BUILD%20%3E%20BUY&descSize=25&descAlignY=60"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=If+it+costs+money%2C+I+build+a+free+alternative.;If+it's+closed+source%2C+I+open+it+up.;If+it's+complicated%2C+I+simplify+it." alt="Philosophy" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=If+it+costs+money%2C+I+build+a+free+alternative;If+it's+closed+source%2C+I+open+it+up;If+it's+complicated%2C+I+simplify+it" alt="Philosophy" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=%E2%9A%A1+AI+Infrastructure+Engineer;%F0%9F%9A%80+Open+Source+Developer;%F0%9F%94%A5+Zero+Cost.+Maximum+Impact." alt="Roles" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=%E2%9A%A1+AI+Infrastructure+Engineer;%F0%9F%94%AE+Intelligence+Systems+Architect;%F0%9F%9A%80+Open+Source+Developer;%F0%9F%92%80+Zero+Cost.+Maximum+Impact." alt="Roles" /></a>
 
 <br>
 
-<a href="https://github.com/DeadManOfficial">
-  <img src="https://img.shields.io/github/followers/DeadManOfficial?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" alt="followers"/>
-</a>
-<a href="https://github.com/DeadManOfficial">
-  <img src="https://komarev.com/ghpvc/?username=DeadManOfficial&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="profile views"/>
-</a>
-<a href="https://github.com/sponsors/DeadManOfficial">
-  <img src="https://img.shields.io/badge/Sponsor-💜-0D1117?style=for-the-badge&labelColor=0D1117" alt="sponsor"/>
-</a>
+[![GitHub](https://img.shields.io/badge/DeadManOfficial-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6)](https://github.com/DeadManOfficial)
+[![Followers](https://img.shields.io/github/followers/DeadManOfficial?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=A855F7)](https://github.com/DeadManOfficial?tab=followers)
+[![Stars](https://img.shields.io/github/stars/DeadManOfficial?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=C084FC)](https://github.com/DeadManOfficial)
+[![Sponsor](https://img.shields.io/badge/Sponsor-💜-0D1117?style=for-the-badge&labelColor=0D1117)](https://github.com/sponsors/DeadManOfficial)
 
-<br><br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=8B5CF6&line=A855F7&point=FFFFFF&area=true&area_color=8B5CF6)](https://github.com/DeadManOfficial)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeadManOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=FFFFFF&ring_color=8B5CF6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeadManOfficial&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=888888" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeadManOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeadManOfficial&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
+<!-- 3D Contribution Calendar -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Now Playing
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Dashboard
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeadManOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Stats" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadManOfficial&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" alt="Streak" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Isometric Calendar (will be generated by metrics action) -->
+<p align="center">
+  <img src="./metrics-isocalendar.svg" alt="Isometric Calendar" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Activity
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+<!-- Habits Chart (will be generated by metrics action) -->
+<img src="./metrics-habits.svg" alt="Coding Habits" />
+
+</td>
+<td width="50%" align="center">
+
+<!-- Languages Chart (will be generated by metrics action) -->
+<img src="./metrics-languages.svg" alt="Languages" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/DeadManOfficial">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&custom_title=Contribution%20Timeline&hide_border=true&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area=true&area_color=8B5CF6" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28"> Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/3133qm4wimam7vxe3kttlljjcld4">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3133qm4wimam7vxe3kttlljjcld4&cover_image=true&theme=novatorem&bar_color=8b5cf6&bar_color_cover=true" alt="Spotify"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3133qm4wimam7vxe3kttlljjcld4&cover_image=true&theme=novatorem&bar_color=a855f7&bar_color_cover=true" alt="Spotify" />
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Arsenal
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=A855F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=A855F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=A855F7)
+![Lua](https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=A855F7)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=A855F7)
+![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=A855F7)
+
+### AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=C084FC)
+![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=flat-square&logo=nvidia&logoColor=C084FC)
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=anthropic&logoColor=C084FC)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=C084FC)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=google&logoColor=C084FC)
+
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=8B5CF6)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=8B5CF6)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-web-services&logoColor=8B5CF6)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=8B5CF6)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=8B5CF6)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=DDA0DD)
+![Neovim](https://img.shields.io/badge/Neovim-0D1117?style=flat-square&logo=neovim&logoColor=DDA0DD)
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=flat-square&logo=selenium&logoColor=DDA0DD)
+![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=DDA0DD)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured
 
 <div align="center">
 
 <a href="https://github.com/DeadManOfficial/token-optimization">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=token-optimization&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=token-optimization&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" />
 </a>
 <a href="https://github.com/DeadManOfficial/DeadManIntelligenceCommand">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=DeadManIntelligenceCommand&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=DeadManIntelligenceCommand&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" />
 </a>
-<a href="https://github.com/DeadManOfficial/costco-warehouse-intelligence">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=costco-warehouse-intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7" />
+<a href="https://github.com/DeadManOfficial/DeadManAI_Framework_TheUnseen">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=DeadManAI_Framework_TheUnseen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" />
 </a>
 <a href="https://github.com/DeadManOfficial/claude-canvas">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=claude-canvas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DeadManOfficial&repo=claude-canvas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" />
 </a>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28"> Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeadManOfficial&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 </div>
 
 <br>
 
 <details>
-<summary><b>💡 Why Follow This Profile?</b></summary>
+<summary><b>📊 More Stats</b></summary>
 <br>
-
-| What You Get | The Value |
-|:------------:|:---------:|
-| **30-50% API Cost Savings** | Production-tested token optimization that works with any LLM |
-| **Free Intelligence Systems** | 5-agent autonomous gathering that replaces $500+/month services |
-| **NASA-Standard Code** | NPR 7150.2 compliant architecture you can trust in production |
-| **Zero Vendor Lock-in** | Drop-in replacements that work with Claude, GPT-4, and any API |
-
+<div align="center">
+<img src="./metrics-achievements.svg" alt="Achievements" />
+<br><br>
+<img src="./metrics-notable.svg" alt="Notable" />
+<br><br>
+<img src="./metrics-stargazers.svg" alt="Stargazers" />
+</div>
 </details>
 
 <details>
 <summary><b>📁 All Repositories</b></summary>
 <br>
 
-### Core Infrastructure
-
-| Repository | What It Does | Why You Need It |
-|:----------:|:------------:|:---------------:|
-| [**token-optimization**](https://github.com/DeadManOfficial/token-optimization) | Universal API cost reduction | Save 30-50% on every API call |
-| [**DeadManIntelligenceCommand**](https://github.com/DeadManOfficial/DeadManIntelligenceCommand) | 5-agent intelligence platform | Automate research that takes hours |
-| [**costco-warehouse-intelligence**](https://github.com/DeadManOfficial/costco-warehouse-intelligence) | Complete Costco database | Free location data worth $$$ |
-
-### AI Framework
-
-| Repository | What It Does | Why You Need It |
-|:----------:|:------------:|:---------------:|
-| [**DeadManAI_Framework_TheUnseen**](https://github.com/DeadManOfficial/DeadManAI_Framework_TheUnseen) | 100-agent network architecture | Scale AI operations to enterprise level |
-| [**DeadManAI_Research**](https://github.com/DeadManOfficial/DeadManAI_Research) | NASA-standard architecture docs | Learn production AI system design |
-
-### Developer Tools
-
-| Repository | What It Does | Why You Need It |
-|:----------:|:------------:|:---------------:|
-| [**claude-canvas**](https://github.com/DeadManOfficial/claude-canvas) | External Claude Code monitor | See AI work on second screen |
-| [**intel-mission-control**](https://github.com/DeadManOfficial/intel-mission-control) | NASA-style operations dashboard | Monitor autonomous systems in real-time |
-| [**AI-Updates**](https://github.com/DeadManOfficial/AI-Updates) | Daily AI intelligence briefs | Stay ahead of AI developments |
+| Repository | Description |
+|:-----------|:------------|
+| [**token-optimization**](https://github.com/DeadManOfficial/token-optimization) | 30-50% API cost savings - universal LLM optimization |
+| [**DeadManIntelligenceCommand**](https://github.com/DeadManOfficial/DeadManIntelligenceCommand) | 5-agent autonomous intelligence gathering |
+| [**DeadManAI_Framework_TheUnseen**](https://github.com/DeadManOfficial/DeadManAI_Framework_TheUnseen) | 100-agent network architecture |
+| [**costco-warehouse-intelligence**](https://github.com/DeadManOfficial/costco-warehouse-intelligence) | Free database of 643 warehouses |
+| [**claude-canvas**](https://github.com/DeadManOfficial/claude-canvas) | External monitor for Claude Code |
+| [**intel-mission-control**](https://github.com/DeadManOfficial/intel-mission-control) | NASA-style operations dashboard |
+| [**DeadManAI_Research**](https://github.com/DeadManOfficial/DeadManAI_Research) | NASA NPR 7150.2 compliant architecture |
+| [**AI-Updates**](https://github.com/DeadManOfficial/AI-Updates) | Daily AI intelligence briefs |
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3zo5o6telefi&rid=giphy.gif" width="30"> Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8B5CF6)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=8B5CF6)
-![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=8B5CF6)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=8B5CF6)
-![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=8B5CF6)
-
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=A855F7)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=A855F7)
-![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=A855F7)
-![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=A855F7)
-
-![Claude](https://img.shields.io/badge/Claude_API-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=C084FC)
-![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=google&logoColor=C084FC)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Every Repository. One Creator. Zero Cost.
+### Every Repository. One Creator. Zero Cost.
 
 <br>
-
-**Created by DEADMAN**
 
 *"The creation and utilization of something free is way more practical than paying for it."*
 
 <br>
 
-<a href="https://github.com/DeadManOfficial">
-  <img src="https://img.shields.io/badge/Follow_@DeadManOfficial-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" />
-</a>
-<a href="https://twitter.com/DeadManAI">
-  <img src="https://img.shields.io/badge/@DeadManAI-0D1117?style=for-the-badge&logo=x&logoColor=8B5CF6" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-DeadManOfficial-0D1117?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/DeadManOfficial)
+[![Twitter](https://img.shields.io/badge/X-@DeadManAI-0D1117?style=for-the-badge&logo=x&logoColor=A855F7)](https://twitter.com/DeadManAI)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DeadManOfficial&style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=VISITORS" />
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,2&height=150&section=footer"/>
