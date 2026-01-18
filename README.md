@@ -1,93 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0033&height=1&section=header" width="100%" />
-
-<br>
-
-# ⚡ DEADMAN
-
-**AI Infrastructure Engineer** · **Open Source Developer** · **Intelligence Systems Architect**
-
-<br>
-
-> *"If it costs money, I build a free alternative."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,100:000000&height=1" width="100%" />
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td>
-
-### 🔮 Philosophy
 ```
-BUILD > BUY
+████████████████████████████████████████████████████████████████████████████████
+██                                                                            ██
+██    ▓█████▄ ▓█████ ▄▄▄      ▓█████▄  ███▄ ▄███▓ ▄▄▄       ███▄    █        ██
+██    ▒██▀ ██▌▓█   ▀▒████▄    ▒██▀ ██▌▓██▒▀█▀ ██▒▒████▄     ██ ▀█   █        ██
+██    ░██   █▌▒███  ▒██  ▀█▄  ░██   █▌▓██    ▓██░▒██  ▀█▄  ▓██  ▀█ ██▒       ██
+██    ░▓█▄   ▌▒▓█  ▄░██▄▄▄▄██ ░▓█▄   ▌▒██    ▒██ ░██▄▄▄▄██ ▓██▒  ▐▌██▒       ██
+██    ░▒████▓ ░▒████▒▓█   ▓██▒░▒████▓ ▒██▒   ░██▒ ▓█   ▓██▒▒██░   ▓██░       ██
+██                                                                            ██
+██                        [ BUILD > BUY ]                                     ██
+██                                                                            ██
+████████████████████████████████████████████████████████████████████████████████
 ```
-Everything I create is **free**, **open source**, and **production-ready**.
-
-</td>
-<td>
-
-### ⚙️ Stack
-`Python` `TypeScript` `Lua` `Rust` `Go`
-`PyTorch` `Claude` `OpenAI` `Gemini`
-`Docker` `K8s` `AWS` `Cloudflare`
-
-</td>
-</tr>
-</table>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=INITIALIZING+DEADMAN+SYSTEMS...;LOADING+FREE+ALTERNATIVES...;BYPASSING+EXPENSIVE+SERVICES...;SYSTEM+READY." />
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
 
-</div>
-
 <br>
 
-<div align="center">
-
-### 🚀 What I Build
-
-</div>
-
-| Project | Description | Value |
-|:--------|:------------|:------|
-| [**token-optimization**](https://github.com/DeadManOfficial/token-optimization) | Drop-in LLM client with compression & caching | **30-50% cost savings** |
-| [**DeadManIntelligenceCommand**](https://github.com/DeadManOfficial/DeadManIntelligenceCommand) | Autonomous intelligence gathering | **5 AI agents** |
-| [**TheUnseen Framework**](https://github.com/DeadManOfficial/DeadManAI_Framework_TheUnseen) | Scalable agent network architecture | **100 agents** |
-| [**claude-canvas**](https://github.com/DeadManOfficial/claude-canvas) | External display for Claude Code | **Real-time monitoring** |
-| [**costco-warehouse-intelligence**](https://github.com/DeadManOfficial/costco-warehouse-intelligence) | Complete Costco database | **643 warehouses FREE** |
-| [**intel-mission-control**](https://github.com/DeadManOfficial/intel-mission-control) | Operations dashboard | **NASA-style ops** |
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                              ┃
+┃  > MISSION: Build free, production-ready alternatives                        ┃
+┃  > STATUS:  Active                                                           ┃
+┃  > COST:    $0                                                               ┃
+┃                                                                              ┃
+┃  ┌─────────────────────────────────────────────────────────────────────────┐ ┃
+┃  │ DEPLOYED SYSTEMS                                                        │ ┃
+┃  ├─────────────────────────────────────────────────────────────────────────┤ ┃
+┃  │ token-optimization ............ Save 30-50% on AI API costs             │ ┃
+┃  │ IntelligenceCommand ........... 5 autonomous AI agents                  │ ┃
+┃  │ TheUnseen Framework ........... 100-agent network architecture          │ ┃
+┃  │ claude-canvas ................. External monitor for Claude Code        │ ┃
+┃  │ costco-warehouse-intel ........ 643 warehouses database (FREE)          │ ┃
+┃  │ intel-mission-control ......... NASA-style operations dashboard         │ ┃
+┃  └─────────────────────────────────────────────────────────────────────────┘ ┃
+┃                                                                              ┃
+┃  ┌─────────────────────────────────────────────────────────────────────────┐ ┃
+┃  │ ARSENAL                                                                 │ ┃
+┃  ├─────────────────────────────────────────────────────────────────────────┤ ┃
+┃  │ LANG: Python · TypeScript · Lua · Rust · Go                             │ ┃
+┃  │ AI:   Claude · OpenAI · Gemini · PyTorch · CUDA                         │ ┃
+┃  │ OPS:  Docker · Kubernetes · AWS · Vercel · Cloudflare                   │ ┃
+┃  └─────────────────────────────────────────────────────────────────────────┘ ┃
+┃                                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 <br>
-
-<div align="center">
-
-### 🎵 Currently
 
 <a href="https://open.spotify.com/user/3133qm4wimam7vxe3kttlljjcld4">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3133qm4wimam7vxe3kttlljjcld4&cover_image=true&theme=natemoo-re&bar_color=a855f7" width="350" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3133qm4wimam7vxe3kttlljjcld4&cover_image=true&theme=default&bar_color=53b14f" width="300" />
 </a>
 
 <br><br>
 
----
+```
+"The creation and utilization of something free
+ is way more practical than paying for it."
+                                    — DEADMAN
+```
 
 <br>
 
-**Every repository. One creator. Zero cost.**
-
-[GitHub](https://github.com/DeadManOfficial) · [X](https://twitter.com/DeadManAI)
+[![GitHub](https://img.shields.io/badge/GITHUB-DeadManOfficial-000?style=flat-square&logo=github)](https://github.com/DeadManOfficial)
+[![X](https://img.shields.io/badge/X-@DeadManAI-000?style=flat-square&logo=x)](https://twitter.com/DeadManAI)
 
 </div>
