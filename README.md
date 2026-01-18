@@ -1,15 +1,3 @@
-## 💭 Philosophy
-
-```
-BUILD > BUY
-
-If it costs money, I build a free alternative.
-If it's closed source, I open it up.
-If it's complicated, I simplify it.
-```
-
----
-
 <div align="center">
 
 # DEADMAN
@@ -19,6 +7,12 @@ If it's complicated, I simplify it.
 [![GitHub followers](https://img.shields.io/github/followers/DeadManOfficial?style=for-the-badge&logo=github&color=181717)](https://github.com/DeadManOfficial)
 [![Profile Views](https://komarev.com/ghpvc/?username=DeadManOfficial&style=for-the-badge&color=blueviolet)](https://github.com/DeadManOfficial)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DeadManOfficial)
+
+---
+
+**I build free, production-ready alternatives to expensive AI services.**
+
+*Every tool is open source. Every system is battle-tested. Every solution saves you money.*
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -180,6 +174,18 @@ nearby = db.find_nearest(lat=37.7749, lon=-122.4194, limit=5)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
+
+---
+
+## 💭 Philosophy
+
+```
+BUILD > BUY
+
+If it costs money, I build a free alternative.
+If it's closed source, I open it up.
+If it's complicated, I simplify it.
+```
 
 ---
 
