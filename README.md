@@ -14,11 +14,7 @@
 
 *Every tool is open source. Every system is battle-tested. Every solution saves you money.*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeadManOfficial/DeadManOfficial/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeadManOfficial/DeadManOfficial/output/github-snake.svg" />
-  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/DeadManOfficial/DeadManOfficial/output/github-snake.svg" />
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -176,16 +172,6 @@ nearby = db.find_nearest(lat=37.7749, lon=-122.4194, limit=5)
 ![Claude](https://img.shields.io/badge/Claude_API-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
