@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:161b22,100:0d1117&text=DEADMAN&fontColor=58a6ff&animation=fadeIn&fontSize=80&fontAlignY=35&desc=BUILD%20%3E%20BUY&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:161b22,100:0d1117&text=DEADMAN&fontColor=58a6ff&animation=fadeIn&fontSize=80&fontAlignY=35&desc=BUILD%20%3E%2[...]">
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+FREE+PRODUCTION-READY+ALTERNATIVES+%E2%9A%A1;%F0%9F%94%A5+REPLACING+EXPENSIVE+WITH+POWERFUL+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&line[...]">
 
 <br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165" />
-<img src="https://streak-stats.demolab.com/?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rin[...]">
+<img src="https://streak-stats.demolab.com/?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6f[...]">
 
 <br><br>
 
@@ -54,7 +54,7 @@
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20creation%20and%20utilization%20of%20something%20free%20is%20way%20more%20practical%20than%20paying%20for%20it.&author=DEADMAN" width="700" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20creation%20and%20utilization%20of%20something%20free%20is%20way%20more%20practical%20than%20paying%20fo[...]">
 
 <br><br>
 
@@ -64,5 +64,8 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:0d1117&section=footer" width="100%" />
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
