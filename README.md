@@ -1,3 +1,5 @@
+## 💭 Philosophy
+
 <div align="center">
 
 ```
@@ -7,6 +9,12 @@ If it costs money, I build a free alternative.
 If it's closed source, I open it up.
 If it's complicated, I simplify it.
 ```
+
+</div>
+
+---
+
+<div align="center">
 
 # DEADMAN
 
