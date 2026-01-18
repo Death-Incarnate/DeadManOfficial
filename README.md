@@ -66,6 +66,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:0d1117&section=footer" width="100%" />
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#15931](https://github.com/anthropics/claude-code/issues/15931) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 </div>
