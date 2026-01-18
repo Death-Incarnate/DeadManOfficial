@@ -1,3 +1,15 @@
+## 💭 Philosophy
+
+```
+BUILD > BUY
+
+If it costs money, I build a free alternative.
+If it's closed source, I open it up.
+If it's complicated, I simplify it.
+```
+
+---
+
 <div align="center">
 
 # DEADMAN
@@ -174,18 +186,6 @@ nearby = db.find_nearest(lat=37.7749, lon=-122.4194, limit=5)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
-
----
-
-## 💭 Philosophy
-
-```
-BUILD > BUY
-
-If it costs money, I build a free alternative.
-If it's closed source, I open it up.
-If it's complicated, I simplify it.
-```
 
 ---
 
