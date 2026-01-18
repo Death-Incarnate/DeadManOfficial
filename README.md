@@ -219,3 +219,4 @@ If it's complicated, I simplify it.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer)
 
 </div>
+
