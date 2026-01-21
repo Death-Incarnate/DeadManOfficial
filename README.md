@@ -10,20 +10,21 @@ Building free, production-ready alternatives to expensive AI services.
 
 <br>
 
-<a href="https://github.com/DeadManOfficial">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://twitter.com/DeadManAI">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="https://www.npmjs.com/~officialdeadman">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+<a href="https://youtube.com/@DeadManAI">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-<a href="mailto:deadmanposts@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://tiktok.com/@DeadManAI">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 
 <br><br>
+
+**Stop paying for AI tools. Build them.**
+
+<br>
 
 </div>
 
@@ -77,9 +78,5 @@ Building free, production-ready alternatives to expensive AI services.
 <div align="center">
 
 <sub>**BUILD > BUY**</sub>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DeadManOfficial&color=blueviolet&style=flat&label=views)
 
 </div>
