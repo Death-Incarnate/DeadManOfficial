@@ -1,21 +1,12 @@
-<div align="center">
-
 ```
-██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-██║  ██║█████╗  ███████║██║  ██║██╔████╔██║███████║██╔██╗ ██║
-██║  ██║██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝███████╗██║  ██║██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+██████  ██████   █████  ██████  ███    ███  █████  ███    ██
+██   ██ ██      ██   ██ ██   ██ ████  ████ ██   ██ ████   ██
+██   ██ █████   ███████ ██   ██ ██ ████ ██ ███████ ██ ██  ██
+██   ██ ██      ██   ██ ██   ██ ██  ██  ██ ██   ██ ██  ██ ██
+██████  ██████  ██   ██ ██████  ██      ██ ██   ██ ██   ████
 ```
 
-**Security Researcher • AI Engineer • Open Source**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DeadManOfficial-black?style=flat-square&logo=github)](https://github.com/DeadManOfficial)
-
-</div>
+**DEADMAN // DEATH INCARNATE**
 
 ---
 
@@ -23,20 +14,11 @@
 
 | Project | Description |
 |---------|-------------|
-| [**BlackBox**](https://github.com/DeadManOfficial/BlackBox) | Autonomous security research platform |
-| [**mcp-auditor**](https://github.com/DeadManOfficial/mcp-auditor) | 35-tool forensic security auditor for Claude |
-| [**token-optimization**](https://github.com/DeadManOfficial/token-optimization) | Save 30-50% on OpenAI/Anthropic API costs |
+| [BlackBox](https://github.com/DeadManOfficial/BlackBox) | Autonomous security research platform |
+| [DeadManUltimateScraper](https://github.com/DeadManOfficial/DeadManUltimateScraper) | 5-layer adaptive scraper with TOR |
+| [mcp-auditor](https://github.com/DeadManOfficial/mcp-auditor) | Security auditor for Claude |
+| [token-optimization](https://github.com/DeadManOfficial/token-optimization) | API cost reduction |
 
 ---
-
-### Philosophy
-
-```
-SAFETY > DETERMINISM > OPTIMIZATION > LEARNING
-```
 
 **ALL FREE FOREVER**
-
----
-
-<sub>DeadMan Toolkit v5.3</sub>
