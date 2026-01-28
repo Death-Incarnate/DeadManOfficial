@@ -1,96 +1,42 @@
 <div align="center">
 
-<br>
+```
+██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║
+██║  ██║█████╗  ███████║██║  ██║██╔████╔██║███████║██╔██╗ ██║
+██║  ██║██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+██████╔╝███████╗██║  ██║██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-# DeadMan
-
-**AI Infrastructure Engineer**
-
-Building free, production-ready alternatives to expensive AI services.
-
-<br>
-
-<a href="https://twitter.com/DeadManAI">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://youtube.com/@DeadManAI">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://tiktok.com/@DeadManAI">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-
-<br><br>
-
-**Stop paying for AI tools. Build them.**
+**Security Researcher • AI Engineer • Open Source**
 
 <br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DeadManOfficial-black?style=flat-square&logo=github)](https://github.com/DeadManOfficial)
 
 </div>
 
 ---
 
-### Featured Projects
+### Tools
 
-<table>
-<tr>
-<td>
-
-**[mcp-auditor](https://github.com/DeadManOfficial/mcp-auditor)**<br>
-<sub>35-tool forensic security & compliance auditor for Claude</sub>
-
-</td>
-<td>
-
-**[token-optimization](https://github.com/DeadManOfficial/token-optimization)**<br>
-<sub>Save 30-50% on OpenAI & Anthropic API costs</sub>
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[claude-canvas](https://github.com/DeadManOfficial/claude-canvas)**<br>
-<sub>External monitor for Claude Code — real-time AI visibility</sub>
-
-</td>
-<td>
-
-**[AI-Updates](https://github.com/DeadManOfficial/AI-Updates)**<br>
-<sub>Daily AI intelligence briefs — no noise, just signal</sub>
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[DeadManIntelligenceCommand](https://github.com/DeadManOfficial/DeadManIntelligenceCommand)**<br>
-<sub>5 AI agents + token optimization + mission control</sub>
-
-</td>
-<td>
-
-**[costco-warehouse-intelligence](https://github.com/DeadManOfficial/costco-warehouse-intelligence)**<br>
-<sub>FREE Costco database + Markdown Hunter app</sub>
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| [**BlackBox**](https://github.com/DeadManOfficial/BlackBox) | Autonomous security research platform |
+| [**mcp-auditor**](https://github.com/DeadManOfficial/mcp-auditor) | 35-tool forensic security auditor for Claude |
+| [**token-optimization**](https://github.com/DeadManOfficial/token-optimization) | Save 30-50% on OpenAI/Anthropic API costs |
 
 ---
 
-### Tech
+### Philosophy
 
-<div align="center">
+```
+SAFETY > DETERMINISM > OPTIMIZATION > LEARNING
+```
 
-`Python` `TypeScript` `Rust` `Go` `Docker` `Kubernetes` `AWS` `PyTorch`
-
-</div>
+**ALL FREE FOREVER**
 
 ---
 
-<div align="center">
-
-<sub>**BUILD > BUY**</sub>
-
-</div>
+<sub>DeadMan Toolkit v5.3</sub>
