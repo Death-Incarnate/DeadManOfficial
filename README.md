@@ -15,17 +15,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Building+Autonomous+AI+Systems+%7C+Security+Researcher+%7C+Open+Source+Creator" alt="Typing SVG"/>
 
   <img src="https://komarev.com/ghpvc/?username=DeadManOfficial&style=flat-square&color=e94560" alt="Profile Views"/>
-  <img src="https://badges.pear.io/pear-rank-badge.svg?user=DeadManOfficial&theme=radical" alt="Pear Rank"/>
+  <img src="https://badges.toozi.io/api/github-profile/DeadManOfficial/radical/1a1a2e/e94560?no-frame=true" alt="Rank Badge"/>
 
 </div>
 
 ---
 
-<br>
-
 <div align="center">
 
-| 🛡️ 116+ Security Tools | 🤖 27 AI Agents | 📦 18 Public Repos | 🔓 All FREE Forever |
+<a href="https://github.com/DeadManOfficial?tab=repositories">
+  <img src="https://img.shields.io/badge/-116%2B_Security_Tools-00ff88?style=flat-square&logo=shield" alt=""/>
+</a>
+<a href="https://github.com/DeadManOfficial?tab=repositories">
+  <img src="https://img.shields.io/badge/-27_AI_Agents-00ff88?style=flat-square&logo=bot" alt=""/>
+</a>
+<a href="https://github.com/DeadManOfficial?tab=repositories">
+  <img src="https://img.shields.io/badge/-18_Public_Repos-00ff88?style=flat-square&logo=github" alt=""/>
+</a>
+<a href="https://github.com/DeadManOfficial?tab=repositories">
+  <img src="https://img.shields.io/badge/-All_FREE_Forever-00ff88?style=flat-square&logo=gift" alt=""/>
+</a>
 
 </div>
 
