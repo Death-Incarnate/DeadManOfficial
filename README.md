@@ -91,6 +91,10 @@ I create **AI-powered security tools** that automate recon, vulnerability discov
 
 <br/>
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ![Visitors](https://komarev.com/ghpvc/?username=DeadManOfficial&color=00ff88&style=flat-square&label=profile+views)
 
 </div>
