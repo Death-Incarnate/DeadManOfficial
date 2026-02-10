@@ -87,14 +87,10 @@ I create **AI-powered security tools** that automate recon, vulnerability discov
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&bg_color=0f0f23&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="95%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&bg_color=0f0f23&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:00ff88&height=100&section=footer" width="100%"/>
+![Visitors](https://komarev.com/ghpvc/?username=DeadManOfficial&color=00ff88&style=flat-square&label=profile+views)
 
 </div>
